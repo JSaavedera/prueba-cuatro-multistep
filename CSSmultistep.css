@@ -48,7 +48,7 @@ form input{
 }
 
 ::placeholder{
-    color: #777;
+    color: rgb(218, 213, 213);
 }
 
 .btn-box{
